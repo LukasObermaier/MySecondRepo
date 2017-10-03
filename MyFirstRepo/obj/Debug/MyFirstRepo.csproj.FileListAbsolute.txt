@@ -1,0 +1,9 @@
+C:\Users\Lukas\Desktop\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe.config
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe.config
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\bin\Debug\MyFirstRepo.pdb
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\obj\Debug\MyFirstRepo.Properties.Resources.resources
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csproj.GenerateResource.Cache
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\obj\Debug\MyFirstRepo.exe
+C:\Users\Lukas\Desktop\SWE\Git\MySecondRepo\MyFirstRepo\obj\Debug\MyFirstRepo.pdb
